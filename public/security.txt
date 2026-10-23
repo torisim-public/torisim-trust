@@ -1,0 +1,5 @@
+Contact: mailto:support@torisim.com
+Expires: 2027-09-28T00:00:00Z
+Encryption: https://torisim.com/pgp.txt
+Preferred-Languages: en, es, fr, de, ja, ar
+Canonical: https://torisim.com/.well-known/security.txt

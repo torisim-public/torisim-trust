@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": "public/pgp.txt",
+      "source": "https://torisim.com/pgp.txt",
+      "capturedAt": "2026-10-18T21:59:27.968Z",
+      "bytes": 734,
+      "sha256": "5a926743276d5efdf7e80fca5a8e4b1cf99857b8e67aad016cb074e9a4412a2c"
+    },
+    {
+      "path": "public/canary.txt",
+      "source": "https://torisim.com/canary.txt",
+      "capturedAt": "2026-10-18T21:59:28.221Z",
+      "bytes": 1194,
+      "sha256": "d2941d752e99ef4700b69193b2f7a8899b49e10286db35c1c3b8dabc14b98454"
+    },
+    {
+      "path": "public/mirrors.txt",
+      "source": "https://torisim.com/mirrors.txt",
+      "capturedAt": "2026-10-18T21:59:28.501Z",
+      "bytes": 704,
+      "sha256": "5fdfa6b1559fcf8db708d2769a658778a3914bbd670c81431fd6ae485893b4a8"
+    },
+    {
+      "path": "public/security.txt",
+      "source": "https://torisim.com/.well-known/security.txt",
+      "capturedAt": "2026-10-18T21:59:28.775Z",
+      "bytes": 206,
+      "sha256": "a2efdf186002288424437e19e3f00a90eab67d26562a67ceff83745671d97c9b",
+      "sourceSha256": "42b75d1d28602338c368c41acc764de0e65a4d35e9c7a6ddddb0a16fd7b073a7",
+      "transformation": "Removed comment lines; contact fields are unchanged."
+    }
+  ]
+}

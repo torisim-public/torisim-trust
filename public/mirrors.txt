@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Torisim official addresses
+
+Date: 2026-10-17
+
+Web: https://torisim.com
+Onion: http://torisim5dvxb7mblsstta7kqcqpf4zrun7rtfxq25xbcnhbj3rcssgad.onion
+
+Trust only addresses that appear on this signed list; an address you find
+elsewhere, even one that looks like Torisim, is not confirmed as ours.
+
+Signing key: https://torisim.com/pgp.txt
+Fingerprint: 4F8F4622F3A1AB6B82E961AEC9CACCC42226BA86
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQRPj0Yi86Gra4LpYa7JyszEIia6hgUCatLSMRsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQycrMxCImuoa5XAEAkw1sMVk5cWL2KWLswPlJ
+iy3y3FdEgLpRv00fG5zsmewBAIxCmxFDSHDabKXFvpQsCjrT/fFUqZ8FUeONr0Zs
+An0E
+=xqf/
+-----END PGP SIGNATURE-----

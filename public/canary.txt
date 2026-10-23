@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Torisim warrant canary
+
+Date: 2026-10-05
+Next canary: by 2026-11-04
+
+On the date above, the statements below are true:
+
+1. Torisim has not received a warrant, subpoena, court order or national
+   security letter that requires it to give customer data to anyone.
+2. Torisim has not received an order that forbids it to say that it
+   received such a demand.
+3. No one has required Torisim to change its website, software or systems
+   to watch or record its customers.
+4. Torisim's signing key is still under Torisim's control.
+
+If this file is not renewed by the "Next canary" date, or if a statement
+above is removed, do not assume that the statement is still true.
+
+Proof of date: Bitcoin block 970048 has this hash:
+000000000000000000005e869bf422c2fa5fef10c7acc3f6ac5eb277973f405f
+
+Signing key: https://torisim.com/pgp.txt
+Fingerprint: 4F8F4622F3A1AB6B82E961AEC9CACCC42226BA86
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQRPj0Yi86Gra4LpYa7JyszEIia6hgUCasPQpxsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQycrMxCImuobDTwEA6sa47Xss9CTFkFde+VHP
+2YUZR7qWR+ZthrpfI+HerHgBAL2Htr/M5hVUXU3ra2DUhM/GI7LBLixJt0at7Ayi
+SzIG
+=dbkh
+-----END PGP SIGNATURE-----
